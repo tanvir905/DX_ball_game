@@ -1,4 +1,4 @@
-# Project 1 - Breakout Game with raylib
+# DX_ball- Breakout Game with raylib
 
 A simple breakout-style game written in C using the [raylib](https://www.raylib.com/) library.
 
